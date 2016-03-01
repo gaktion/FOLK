@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: ea085ba74123f1f4b802883fe69eda2f
+timeCreated: 1456861854
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: jumping_0
+    21300002: jumping_1
+    21300004: jumping_2
+    21300006: jumping_3
+    21300008: jumping_4
+    21300010: jumping_5
+    21300012: jumping_6
+    21300014: jumping_7
+    21300016: jumping_8
+    21300018: jumping_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 175
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: jumping_0
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 112
+        width: 203
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumping_1
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 228
+        width: 210
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumping_2
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 274
+        width: 176
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumping_3
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 335
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumping_4
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 300
+        width: 158
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumping_5
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 275
+        width: 137
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumping_6
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 242
+        width: 144
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumping_7
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 115
+        width: 185
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumping_8
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 132
+        width: 173
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumping_9
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 113
+        width: 166
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

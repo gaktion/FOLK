@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 2c1bebac8f0a60d49a45725b80b3aeba
+timeCreated: 1456861806
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: IDLE ANIMATION WORK YOU PIECE OF ..._0
+    21300002: IDLE ANIMATION WORK YOU PIECE OF ..._1
+    21300004: IDLE ANIMATION WORK YOU PIECE OF ..._2
+    21300006: IDLE ANIMATION WORK YOU PIECE OF ..._3
+    21300008: IDLE ANIMATION WORK YOU PIECE OF ..._4
+    21300010: IDLE ANIMATION WORK YOU PIECE OF ..._5
+    21300012: IDLE ANIMATION WORK YOU PIECE OF ..._6
+    21300014: IDLE ANIMATION WORK YOU PIECE OF ..._7
+    21300016: IDLE ANIMATION WORK YOU PIECE OF ..._8
+    21300018: IDLE ANIMATION WORK YOU PIECE OF ..._9
+    21300020: IDLE ANIMATION WORK YOU PIECE OF ..._10
+    21300022: IDLE ANIMATION WORK YOU PIECE OF ..._11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: IDLE ANIMATION WORK YOU PIECE OF ..._0
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 68
+        width: 48
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IDLE ANIMATION WORK YOU PIECE OF ..._1
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 68
+        width: 47
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IDLE ANIMATION WORK YOU PIECE OF ..._2
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 67
+        width: 46
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IDLE ANIMATION WORK YOU PIECE OF ..._3
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 66
+        width: 47
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IDLE ANIMATION WORK YOU PIECE OF ..._4
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 66
+        width: 48
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IDLE ANIMATION WORK YOU PIECE OF ..._5
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 67
+        width: 49
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IDLE ANIMATION WORK YOU PIECE OF ..._6
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 72
+        width: 47
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IDLE ANIMATION WORK YOU PIECE OF ..._7
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 71
+        width: 48
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IDLE ANIMATION WORK YOU PIECE OF ..._8
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 72
+        width: 68
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IDLE ANIMATION WORK YOU PIECE OF ..._9
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 71
+        width: 69
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IDLE ANIMATION WORK YOU PIECE OF ..._10
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 73
+        width: 48
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IDLE ANIMATION WORK YOU PIECE OF ..._11
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 73
+        width: 48
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
